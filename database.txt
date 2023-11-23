@@ -1,0 +1,11 @@
+@TABLE|name1|id int|name str|is_true bool
+0|aaa|true
+1|avd|false
+
+@TABLE|name2|id int|name str|is_true bool
+0|abc|false
+1|zyx|true
+
+@TABLE|name3|id int|name str|is_true bool
+0|000|true
+1|111|false
